@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.760dfdfa.css",
+    "main.js": "/static/js/main.336e8cd7.js",
+    "static/media/cristie.jpg": "/static/media/cristie.abd17eaac3654d49193c.jpg",
+    "static/media/toptea.jpg": "/static/media/toptea.140d30806837deb795f3.jpg",
+    "static/media/small-photo.jpg": "/static/media/small-photo.0abf849a0e753095c502.jpg",
+    "static/media/goz.jpg": "/static/media/goz.ec1cee9d52d6d1a34098.jpg",
+    "static/media/gloria.jpg": "/static/media/gloria.674b1bb2d9e25a344bbc.jpg",
+    "static/media/jino.jpg": "/static/media/jino.c3ff06fec79fda14b060.jpg",
+    "static/media/my-about.JPG": "/static/media/my-about.bbaad6abe962c3f23b02.JPG",
+    "static/media/project9.jpg": "/static/media/project9.7e10b78179ee665298cd.jpg",
+    "static/media/project6.jpg": "/static/media/project6.4e8ab78eb40a0f03bc88.jpg",
+    "static/media/project7.jpg": "/static/media/project7.4389651d5816bb277c4a.jpg",
+    "static/media/project8.jpg": "/static/media/project8.16ed43794953534af05c.jpg",
+    "static/media/my-logo.jpg": "/static/media/my-logo.e118c56feb029c888801.jpg",
+    "static/media/topboyl.jpg": "/static/media/topboyl.491ee3a451c2eacb7f76.jpg",
+    "static/media/project4.jpg": "/static/media/project4.9e2e36250226a4ebb82b.jpg",
+    "static/media/project1.jpg": "/static/media/project1.5cec46bd193a7eb80f22.jpg",
+    "static/media/project5.jpg": "/static/media/project5.fdd0c6a0d639a9c75455.jpg",
+    "static/media/cvvv.pdf": "/static/media/cvvv.47e7c1f0fa3860f96c77.pdf",
+    "static/media/hajiya.jpg": "/static/media/hajiya.840499ea8b0132c91ccd.jpg",
+    "index.html": "/index.html",
+    "main.760dfdfa.css.map": "/static/css/main.760dfdfa.css.map",
+    "main.336e8cd7.js.map": "/static/js/main.336e8cd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.760dfdfa.css",
+    "static/js/main.336e8cd7.js"
+  ]
+}
