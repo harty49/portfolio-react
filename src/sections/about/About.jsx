@@ -28,7 +28,7 @@ const About = () => {
           <p>
             Building the perfect projects for my clients has always been my
             passion. Being in the web development industry for over 2 years and
-            serving more than 30 happy clients, I'm always motivated to do more!
+            serving more than 20 happy clients, I'm always motivated to do more!
           </p>
           <p>
             Hi, my name is Hartman Mandor from Akwa Ibom state, Nigeria. I'm a

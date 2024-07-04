@@ -16,7 +16,7 @@ const data = [
     title: "Tea Station Project (Frontend)",
     desc: "A landing site for a USA based tea company ( HTML, CSS, JAVASCRIPT, REACT)",
     demo: "https://topteastation.netlify.app/",
-    github: "https://github.com/egattor",
+    github: "https://github.com/harty49/Tea-Station-Project",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const data = [
     title: "Topboy Logistics (Frontend)",
     desc: "A landing site for a logistics company in Nigeria ( HTML, CSS, JAVASCRIPT, REACT)",
     demo: "https://topboylogistics.netlify.app/",
-    github: "https://github.com/egattor",
+    github: "https://github.com/harty49/Topboy-Logistics",
   },
   {
     id: 9,
@@ -33,8 +33,8 @@ const data = [
     image: Image9,
     title: "Nike clone Project (Frontend)",
     desc: "Nike cloneshopping and advertisement site ( HTML, CSS, JAVASCRIPT, REACT) ",
-    demo: "http://egatortutorials.com",
-    github: "https://github.com/egattor",
+    demo: "http://github.com",
+    github: "https://github.com",
   },
 ];
 
